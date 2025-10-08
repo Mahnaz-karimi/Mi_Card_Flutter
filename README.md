@@ -34,3 +34,6 @@ find package pacifico
 
 https://docs.flutter.dev/cookbook/design/package-fonts #from-packages -> Declare the font assets
 copy font we want
+
+Icons:
+https://api.flutter.dev/flutter/material/Icons-class.html
