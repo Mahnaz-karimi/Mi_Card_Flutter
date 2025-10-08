@@ -16,10 +16,10 @@ class MyApp extends StatelessWidget {
             child: Column(children: <Widget>[
           CircleAvatar(
             radius: 50,
-            backgroundImage: AssetImage('assets/images/miCard_image.jpg'),
+            backgroundImage: AssetImage('assets/images/user.png'),
           ),
           Text(
-            'Mahnaz Karimi',
+            'User name',
             style: TextStyle(
                 fontFamily: 'Pacifico', fontSize: 40, color: Colors.white),
           ),
