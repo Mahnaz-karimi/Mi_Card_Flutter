@@ -1,0 +1,34 @@
+
+# Flutter/Dart build files
+/build/
+.dart_tool/
+.packages
+.pub/
+*.dart.js
+*.dart.js.map
+*.info.json
+*.dill
+*.cache
+
+# IDEs
+/.idea/
+/*.iml
+/.vscode/
+
+# Misc
+*.log
+*.lock
+*.tmp
+*.swp
+*.DS_Store
+*.class
+
+# Android Studio specific
+/.gradle/
+local.properties
+
+# iOS
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/ephemeral/
